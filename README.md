@@ -5,7 +5,7 @@
 
 <!-- Animated Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Building+Scalable+Data+Architecture;Cloud+Platforms+and+Big+Data+Solutions;ETL+Modernization+and+Technology+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;8%2B+Years+Building+Scalable+Data+Solutions;Databricks+%7C+Azure+%7C+Snowflake+Expert;ETL+Modernization+and+Cloud+Architecture" alt="Typing SVG" />
 </div>
 
 <!-- Quick Links -->
@@ -29,84 +29,122 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm a passionate Full Stack Developer with a focus on building innovative healthcare data solutions. My journey in tech is driven by the belief that technology can transform how we understand and utilize healthcare information to improve patient outcomes.
+I'm a talented Data Engineering Consultant with 8+ years of experience optimizing data workflows, designing cloud solutions, and enhancing analytics through innovative technologies. Currently serving as Senior Data Engineer at ATI | Advanced Technology International, I specialize in building scalable data architectures that drive business intelligence and decision-making.
 
 ### 🎯 What I Do
 
-- 🏥 **Healthcare Technology**: Developing solutions for Medicare data processing and analysis
-- 📊 **Data Engineering**: Building scalable data pipelines and analytics platforms
-- 🛠️ **Developer Tools**: Creating VS Code extensions and productivity tools
-- 🌐 **Full Stack Development**: From backend APIs to responsive frontends
+- 🏗️ **Data Architecture Pipeline Development**
+  - Directed end-to-end rollout of Databricks-based Data Lakehouse solutions
+  - Built scalable data pipelines using Databricks to support analytics and BI initiatives
+  - Architected high-performance ETL/ELT pipelines using Dagster and dbt
+
+- ☁️ **Cloud Platform Engineering**
+  - Spearheaded federal cloud migrations ensuring seamless transitions
+  - Designed innovative Azure cloud-native solutions boosting operational efficiency
+  - Developed scalable data synchronization frameworks for Snowflake
+
+- 📊 **Business Intelligence & Analytics Enablement**
+  - Created interactive Power BI dashboards to visualize key performance data
+  - Consolidated data into executive dashboards for cross-department decisions
+  - Established automated data quality checks, leading to 40% reduction in data incidents
 
 ### 🌱 Current Focus
 
-- 🔍 Exploring advanced data analytics with Python
-- ☁️ Learning cloud architectures (AWS, Azure)
-- 🤖 Diving into machine learning for healthcare applications
-- 🚀 Contributing to open-source healthcare projects
+- 🚀 Leading Databricks Platform Architecture initiatives at ATI
+- 🔄 Modernizing ETL processes with cutting-edge tools
+- ☁️ Building Azure cloud-native data solutions
+- 📈 Implementing real-time data streaming architectures
+- 🔐 Designing robust security measures for data compliance
 
-### 💡 Fun Facts
+### 🏆 Certifications
 
-- 📍 Based in UTC -04:00 timezone
-- 🎯 Love solving complex data challenges
-- 📚 Continuous learner and tech enthusiast
-- ☕ Powered by coffee and curiosity
+- 📜 **CIW v5 Database Design Specialist**
+- 🤖 **Artificial Intelligence Engineer Expert**
+- 📊 **Series 3 Certified**
 
 ---
 
 ## 🛠️ Tech Stack
 
 <details open>
-<summary><b>🔧 Languages & Frameworks</b></summary>
+<summary><b>🔧 Data Engineering & Analytics</b></summary>
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,django,react,nodejs,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,scala,java,spark,kafka,postgresql,mysql&theme=dark" />
 </p>
 
 <table align="center">
 <tr>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-  <br>Python
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" width="96" height="48" />
+  <br>Databricks
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-  <br>TypeScript
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" width="96" height="48" />
+  <br>Snowflake
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-  <br>JavaScript
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" width="96" height="48" />
+  <br>Airflow
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-  <br>Django
+  <img src="https://img.shields.io/badge/dbt-FF6B6B?style=for-the-badge&logo=dbt&logoColor=white" width="96" height="48" />
+  <br>dbt
 </td>
 <td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-  <br>React
+  <img src="https://img.shields.io/badge/Dagster-0A0E27?style=for-the-badge&logo=dagster&logoColor=white" width="96" height="48" />
+  <br>Dagster
 </td>
 </tr>
 </table>
 </details>
 
 <details>
-<summary><b>💾 Databases & Tools</b></summary>
+<summary><b>☁️ Cloud Platforms & DevOps</b></summary>
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,git,vscode,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes,terraform,jenkins&theme=dark" />
 </p>
 </details>
 
 <details>
-<summary><b>☁️ Cloud & DevOps</b></summary>
+<summary><b>📊 BI & Visualization Tools</b></summary>
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,githubactions,nginx,kubernetes&theme=dark" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/SSRS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 </details>
+
+---
+
+## 💼 Professional Experience
+
+<table>
+<tr>
+<td>
+
+### 🏢 Current Role
+**Senior Data Engineer** @ ATI | Advanced Technology International  
+*June 2025 - Present*
+
+Leading data architecture initiatives and designing scalable BI solutions.
+
+</td>
+<td>
+
+### 🚀 Previous Highlights
+- **Lead Engineer & Databricks Platform Architect** @ Booz Allen Hamilton
+- **Data Engineer** @ ANDMORE
+- **Technology Analyst** @ Royal Caribbean Group
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -121,16 +159,16 @@ I'm a passionate Full Stack Developer with a focus on building innovative health
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pachecocarlos27&repo=bcda-client&theme=tokyonight&hide_border=true" />
 </a>
 
-**Python client for Medicare data API**
+**Healthcare Data Pipeline Client**
 - 🔐 OAuth2 authentication
-- 📦 Bulk data exports
-- 🚀 Async operations
-- 📊 FHIR resource processing
+- 📦 Bulk data processing
+- 🚀 Async ETL operations
+- 📊 FHIR data transformation
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Healthcare-FF6B6B?style=flat" />
-  <img src="https://img.shields.io/badge/API-4FC08D?style=flat" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Healthcare-00BFFF?style=flat" />
 </p>
 
 </td>
@@ -141,16 +179,16 @@ I'm a passionate Full Stack Developer with a focus on building innovative health
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pachecocarlos27&repo=DataTrackPro&theme=tokyonight&hide_border=true" />
 </a>
 
-**Real-time analytics platform**
-- 📈 Live dashboards
-- 🔔 Smart alerts
-- 📁 Multi-source data
-- 🚀 High performance
+**Real-time Data Analytics Platform**
+- 📈 Stream processing
+- 🔔 Data quality monitoring
+- 📁 Multi-source ETL
+- 🚀 Distributed computing
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
 </p>
 
 </td>
@@ -158,21 +196,21 @@ I'm a passionate Full Stack Developer with a focus on building innovative health
 <tr>
 <td width="50%">
 
-### 🛠️ [VSCode Plug](https://github.com/pachecocarlos27/vscode_plug)
-<a href="https://github.com/pachecocarlos27/vscode_plug">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pachecocarlos27&repo=vscode_plug&theme=tokyonight&hide_border=true" />
+### 🛠️ [Data Pipeline Tools](https://github.com/pachecocarlos27/data-pipeline-tools)
+<a href="https://github.com/pachecocarlos27/data-pipeline-tools">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pachecocarlos27&repo=data-pipeline-tools&theme=tokyonight&hide_border=true" />
 </a>
 
-**VS Code productivity extension**
-- 🚀 Smart snippets
-- 🎨 Custom themes
-- ⚡ Quick commands
-- 📁 File navigation
+**Modern ETL/ELT Framework**
+- 🚀 Dagster orchestration
+- 🎯 dbt transformations
+- ⚡ Automated testing
+- 📁 Multi-cloud support
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dagster-0A0E27?style=flat&logo=dagster&logoColor=white" />
+  <img src="https://img.shields.io/badge/dbt-FF6B6B?style=flat&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white" />
 </p>
 
 </td>
@@ -183,16 +221,16 @@ I'm a passionate Full Stack Developer with a focus on building innovative health
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pachecocarlos27&repo=my-portfolio&theme=tokyonight&hide_border=true" />
 </a>
 
-**Central hub for all projects**
-- 📚 Complete documentation
-- 🔗 Project links
-- 📊 Live statistics
-- 🚀 Setup scripts
+**Data Engineering Portfolio**
+- 📚 Project documentation
+- 🔗 Architecture designs
+- 📊 Performance metrics
+- 🚀 Best practices
 
 <p>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/Documentation-2E9FFF?style=flat" />
-  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat" />
+  <img src="https://img.shields.io/badge/Documentation-00BFFF?style=flat" />
+  <img src="https://img.shields.io/badge/Architecture-FF6B6B?style=flat" />
+  <img src="https://img.shields.io/badge/Portfolio-4FC08D?style=flat" />
 </p>
 
 </td>
@@ -201,7 +239,7 @@ I'm a passionate Full Stack Developer with a focus on building innovative health
 
 <p align="center">
   <a href="https://github.com/pachecocarlos27?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Projects-2E9FFF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
+    <img src="https://img.shields.io/badge/View%20All%20Projects-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects" />
   </a>
 </p>
 
@@ -236,24 +274,25 @@ I'm a passionate Full Stack Developer with a focus on building innovative health
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Pacheco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pachecocarlos1988)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Pacheco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crrpacheco)
 [![Portfolio](https://img.shields.io/badge/Portfolio-myonlineprofile.site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](http://myonlineprofile.site)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pachecocarlos2017@icloud.com)
+[![GitHub](https://img.shields.io/badge/GitHub-pachecocarlos27-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pachecocarlos27)
 
 </div>
 
 ### 💬 Let's Collaborate!
 
 I'm always interested in:
-- 🤝 Open source contributions
-- 💡 Innovative healthcare projects
-- 🚀 Exciting development opportunities
-- 📚 Knowledge sharing and mentoring
+- 🤝 Data engineering and architecture projects
+- 💡 Cloud-native data platform development
+- 🚀 ETL modernization initiatives
+- 📊 Business intelligence implementations
+- 🔄 Real-time data streaming solutions
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2E9FFF,5B6EFF,8B7FFF&height=100&section=footer&animation=twinkling" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=100&section=footer&animation=twinkling" alt="Footer" />
   
   <p>
     <strong>Thanks for visiting my profile!</strong><br>
