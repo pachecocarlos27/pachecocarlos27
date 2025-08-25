@@ -1,11 +1,11 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2E9FFF,5B6EFF,8B7FFF&height=200&section=header&text=Carlos%20Pacheco&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Full%20Stack%20Developer%20%7C%20Healthcare%20Data%20Specialist%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=87CEEB,00BFFF,1E90FF&height=200&section=header&text=Carlos%20Pacheco&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Talented%20Data%20Engineer%20%7C%20Data%20Architecture%20•%20Cloud%20Platforms%20•%20ETL%20Modernization&descAlignY=55&descSize=18" alt="Header" />
 </div>
 
 <!-- Animated Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9FFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+build+healthcare+data+solutions;Creating+tools+that+make+a+difference;Always+learning%2C+always+coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Building+Scalable+Data+Architecture;Cloud+Platforms+and+Big+Data+Solutions;ETL+Modernization+and+Technology+Integration" alt="Typing SVG" />
 </div>
 
 <!-- Quick Links -->
@@ -15,6 +15,12 @@
   <a href="#featured-projects">Projects</a> •
   <a href="#github-stats">Stats</a> •
   <a href="#connect">Connect</a>
+</p>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pachecocarlos27&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pachecocarlos27?label=Followers&style=for-the-badge&color=1E90FF" alt="Followers">
 </p>
 
 <!-- Visitor Counter -->
