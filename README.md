@@ -1,11 +1,11 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=87CEEB,00BFFF,1E90FF&height=200&section=header&text=Carlos%20Pacheco&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Talented%20Data%20Engineer%20%7C%20Data%20Architecture%20•%20Cloud%20Platforms%20•%20ETL%20Modernization&descAlignY=55&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=200&section=header&text=Carlos%20Pacheco&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Talented%20Data%20Engineer%20%7C%20Data%20Architecture%20•%20Cloud%20Platforms%20•%20ETL%20Modernization&descAlignY=55&descSize=18" alt="Header" />
 </div>
 
 <!-- Animated Introduction -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Building+Scalable+Data+Architecture;Cloud+Platforms+and+Big+Data+Solutions;ETL+Modernization+and+Technology+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;Building+Scalable+Data+Architecture;Cloud+Platforms+and+Big+Data+Solutions;ETL+Modernization+and+Technology+Integration" alt="Typing SVG" />
 </div>
 
 <!-- Quick Links -->
@@ -20,13 +20,7 @@
 <!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pachecocarlos27&label=Profile%20Views&color=00BFFF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pachecocarlos27?label=Followers&style=for-the-badge&color=1E90FF" alt="Followers">
-</p>
-
-<!-- Visitor Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pachecocarlos27&label=Profile%20Views&color=2E9FFF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/pachecocarlos27?label=Followers&style=for-the-badge&color=5B6EFF" alt="Followers">
+  <img src="https://img.shields.io/github/followers/pachecocarlos27?label=Followers&style=for-the-badge&color=00BFFF" alt="Followers">
 </p>
 
 ---
